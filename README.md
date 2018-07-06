@@ -1,4 +1,5 @@
-Kotlin Hello World Demo
+Kotlin HikariCp Demo
 =======================
 
-Hello world from kotlin. Open it in IDE and run `Hello.kt`
+Jdbc connection pool: [HikariCP](https://github.com/brettwooldridge/HikariCP)
+ 
